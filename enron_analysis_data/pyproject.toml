@@ -10,6 +10,8 @@ pandas = "^1.2.4"
 matplotlib = "^3.4.2"
 seaborn = "^0.11.1"
 jupyter = "^1.0.0"
+importlib-metadata = "^4.4.0"
+typing-extensions = "^3.10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
